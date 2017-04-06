@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_0105036bf04f121571bf052ba67830537f2b9f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.adobe.xmp/xmpcore/5.1.2/55615fa2582424e38705487d1d3969af8554f637/xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/xmpcore-5.1.2_8b9e7d29bee158e2faf3fe4fa036803f8dd59a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_24c64353bcbc7ae23575ff5d7e05c809ab29e411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_8ba5a5f1a83e66178c4ac5a62a4d65b239f54693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_fb8a1cda3dcaa9cb8e8a72240470c1021d9e5401.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0586c4f58c6c8264cac4ac40b063f1ca4ef8a74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_34b61b76432dffa75dbdba37cf53d7308c573f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_6e8a63cf483535b0c320fac9e00d12abe5427722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_1f78b46079f55b5b354ad0052c7c1f134c104914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_a9c7e5e82ae25b5f25e17d9f4fc2f05890dab3d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_1251e554434b425d8e9cea3543d4bb4f32f1914e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_6bfbefa245b8acae169ae6e7544c964d154404f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_69bcbf6281e3610256c2fb92f8f1e97ad56b3538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6f0bd11124cce62cdb91459c7ed79dc0bd6c6309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_25e97f3776016465ba0a3406054481a9063902a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_e49ff2d632fa5d42864749df7718d228cd81ba05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_1de763818a44cde5da72889bb9fe41816cacb949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_0c6d365d20d29ec9e5042064f29c85d457a20eab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.github.ybq/Android-SpinKit/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.github.ybq-Android-SpinKit-1.1.0_cd24c84e6bdab932670132758cc40ded27276e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3e89adbd0ba47f1a6b8d1fe48d1ea1461bdf3df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/prototypeApp/react-native-spinkit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b314a65f4411ad87794e615bf1bda7c3f751427f">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/prototypeApp-react-native-spinkit-unspecified_badebec70a80128f5a7f385121e22dee594a6645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_4e4e05fbb6cd6f9029d18d56a698543b28e6ae3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d808869bda2f8f5a14b681624b2ac32a2d9260cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.drewnoakes/metadata-extractor/2.9.1/53fdf22be10c9d426ec63431c7342895bc642261/metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/metadata-extractor-2.9.1_28d9c44931745390e2619f25e765d83247bf1fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_f14239fcbba876ffac1ac7bf70ff14c06b222c0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_99a4721660d966c296aa909786df8311e0d53dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.42.0_9f45944bd96fd5be185d0cfe9ac10cce5cf58d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_5c1b91abbcaa99d74704054e0defeca443a9751f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_3e23ca965a5469d2bcb0b96ff7107297e88b7ac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/exploded-aar/prototypeApp/react-native-camera/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8248dc8240f51ffe0bbb5bd38af9523e337252a9">
+        <dex dex="/Users/paulbutler/Desktop/prototypeApp/android/app/build/intermediates/pre-dexed/debug/prototypeApp-react-native-camera-unspecified_3dafa26e0ea3fc8043941e384b74e1a8cfc6ea0c.jar" />
+    </item>
+
+</items>
